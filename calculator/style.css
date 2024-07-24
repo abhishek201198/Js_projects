@@ -1,0 +1,58 @@
+html, body{
+    height:100%;
+    width:100%;
+
+}
+.button {
+    padding: 20px;
+    width:50px;
+    margin: 0 1px;
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 6px 0px;
+    
+}
+
+.input {
+    max-width: 236px;
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+
+
+.flex{
+display: flex;
+} 
+
+.flex-col{
+flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+#color-button{
+    background-color:aqua;
+}
